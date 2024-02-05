@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haitian Liu/Personal Homepage"
+title                    : "Haitian Liu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haitian Liu"
 description              : &description "M.S. student at Xi'an Jiaotong University"
