@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a second-year M.S. student at [School of Software Engineering, Xi'an Jiaotong University](https://se.xjtu.edu.cn/), advised by Prof. [Li Zhu](https://gr.xjtu.edu.cn/en/web/zhuli). Previously, I received my B.S. degree from [College of Computer Science and Electronic Engineering, Hunan University](http://csee.hnu.edu.cn/) in 2022.
 
 # Research interests
 
