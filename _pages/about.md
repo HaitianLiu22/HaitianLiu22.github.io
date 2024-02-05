@@ -1,20 +1,20 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me
+# About Me
 
-I am a second-year M.S. student at [School of Software Engineering, Xi'an Jiaotong University](https://se.xjtu.edu.cn/), advised by Prof. [Li Zhu](https://gr.xjtu.edu.cn/en/web/zhuli). Previously, I received my B.S. degree from [College of Computer Science and Electronic Engineering, Hunan University](http://csee.hnu.edu.cn/) in 2022.
+I am a second-year M.S. student at [School of Software Engineering, Xi'an Jiaotong University](http://se.xjtu.edu.cn/), advised by Prof. [Li Zhu](https://gr.xjtu.edu.cn/en/web/zhuli). Previously, I received my B.S. degree from [College of Computer Science and Electronic Engineering, Hunan University](http://csee.hnu.edu.cn/) in 2022.
 
-# Research interests
+# Research Interests
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests include Large Language Model, Medical AI and Computer Vision. If you are interested to chat and and collaborate with me, please drop me an <a href="mailto:liuhaitian@stu.xjtu.edu.cn" target="_blank">email</a>.
 
 # Publications
 
