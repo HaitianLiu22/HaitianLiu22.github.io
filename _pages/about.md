@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id='about-me'>About Me</h2>
+<h1 id='about-me'>About Me</h1>
 
 I am a second-year M.S. student at [School of Software Engineering, Xi'an Jiaotong University](http://se.xjtu.edu.cn/), advised by Prof. [Li Zhu](https://gr.xjtu.edu.cn/en/web/zhuli). Previously, I received my B.S. degree from [College of Computer Science and Electronic Engineering, Hunan University](http://csee.hnu.edu.cn/) in 2022.
 
