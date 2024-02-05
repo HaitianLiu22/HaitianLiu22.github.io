@@ -14,7 +14,7 @@ I am a second-year M.S. student at [School of Software Engineering, Xi'an Jiaoto
 
 <h2 id='research-interests'>Research Interests</h2>
 
-My research interests include Large Language Model, Medical AI and Computer Vision. If you are interested to chat and and collaborate with me, please drop me an <a href="mailto:liuhaitian@stu.xjtu.edu.cn" target="_blank">email</a>.
+My research interests include *Large Language Model*, *Medical Artificial Intelligence* and *Computer Vision*. If you are interested to chat and and collaborate with me, please drop me an <a href="mailto:liuhaitian@stu.xjtu.edu.cn" target="_blank">email</a>.
 
 <h2 id='publications'>Publications</h2>
 
