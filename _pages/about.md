@@ -24,4 +24,4 @@ My research interests include Large Language Model, Medical AI and Computer Visi
 
 # CV
 
-Here is my CV.
+Here is my CV: [Haitian Liu's Curriculum Vitae](https://HaitianLiu22.github.io/files/cv.pdf).
